@@ -1,0 +1,7 @@
+{
+  "name": "test-site",
+  "private": true,
+  "scripts": {
+    "build": "mkdir -p out && cp index.html out/ && date -u +%FT%TZ > out/built-at.txt"
+  }
+}
