@@ -1,15 +1,15 @@
 {
-    "timestamp": "2026-08-10T14:33:56Z",
+    "timestamp": "2026-08-10T14:36:33Z",
     "git": {
-        "commit": "9a910a4f3eda0317fcc609c38c33c24c2016ba38",
+        "commit": "f1c31b7e8fd935b7abcf3d2ef19db85e57e534db",
         "branch": "origin/auto-caddy",
         "url": "git@github.com:status-im/infra-sites.git"
     },
     "build": {
-        "id": "5",
-        "number": "5",
+        "id": "6",
+        "number": "6",
         "name": "website/static-website",
         "slave": "linux-01",
-        "url": "https://ci.infra.status.im/job/website/job/static-website/5/"
+        "url": "https://ci.infra.status.im/job/website/job/static-website/6/"
     }
 }
