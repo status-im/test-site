@@ -1,0 +1,15 @@
+{
+    "timestamp": "2026-08-18T08:46:43Z",
+    "git": {
+        "commit": "5e2544c3e4e032b972a8b0fd57849a49c1d542bb",
+        "branch": "master",
+        "url": "git@github.com:status-im/test-site.git"
+    },
+    "build": {
+        "id": "1",
+        "number": "1",
+        "name": "website/test-site.status.im",
+        "slave": "linux-02",
+        "url": "https://ci.infra.status.im/job/website/job/test-site.status.im/1/"
+    }
+}
